@@ -52,12 +52,6 @@ Component Descriptions BlogDetails.jsx
 2. It displays the post's title,author,category,date,content,and tags.
 3. Clickable links are provided for navigation to related categories and tags.
    
-Darkmode.js
-
-1. The Darkmode component is responsible for rendering and managing the dark mode and light mode theme toggle button.
-2. It utilizes the useContext hook to access the theme and theme-switching function from the context.
-3. The button allows users to switch between dark and light themes,and the icon changes accordingly.
-   
 Header.js
 
 1. The Header component represents the website's header section.
