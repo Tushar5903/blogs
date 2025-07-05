@@ -1,4 +1,4 @@
-https://blogs-webpages.vercel.app/
+https://blogs-webpages-git-main-tushar-kumars-projects-f26e856d.vercel.app/
 
 
 Blog Website
