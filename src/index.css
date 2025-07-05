@@ -191,3 +191,9 @@
 .Blog_pages_middle_heading{
   margin-bottom: 15px;
 }
+
+@media (max-width:546px){
+  .card_div{
+    width:80%;
+  }
+}
